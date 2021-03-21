@@ -1,0 +1,3 @@
+rootProject.name = "rust-android-practice"
+
+include ':app'
